@@ -1,7 +1,7 @@
 ---
 title : # Selection Sort
 date : 2023-09-07 HH:MM:SS +/-TTTT
-categories : [자료구조, Selection Sort]
+categories : [Data Structure, Selection Sort]
 tags : [selection_sort] #소문자만 가능
 ---
 ```cpp
