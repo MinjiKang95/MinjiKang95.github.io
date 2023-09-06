@@ -1,6 +1,6 @@
 ---
 title : # Selection Sort
-date : 2023-09-07 HH:MM:SS +/-TTTT
+date : 2023-09-07 00:00:00 +/-TTTT
 categories : [Data Structure, Selection Sort]
 tags : [selection_sort] #소문자만 가능
 ---
