@@ -1,6 +1,8 @@
 ---
-title :TEST
-date : 2023-09-07 00:00:00 +/-TTTT
+title : # TESET
 categories : [TEST]
-tags : [TEST] 
+tags : [Algorithm] #소문자만 가능
 ---
+```
+TEST
+```
